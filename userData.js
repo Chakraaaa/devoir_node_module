@@ -6,6 +6,7 @@ const users = [
 ];
 
 // Renvoie le tableau des users sous forme Nom: X, Age: Y, Email: Z
+// commiting ...
 function formatUsers(users) {
     return users.map(user =>
         `Nom: ${user.name}, Age: ${user.age}, Email: ${user.email}`
