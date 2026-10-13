@@ -1,0 +1,15 @@
+{
+  "name": "devoir_node_module",
+  "private": true,
+  "version": "0.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.5",
+    "vite": "^8.1.5"
+  }
+}
